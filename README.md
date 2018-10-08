@@ -13,12 +13,6 @@ check out this guide for using the bmp280 with python!
 https://learn.adafruit.com/adafruit-bmp280-barometric-pressure-plus-temperature-sensor-breakout
 
 
-
-
-
-
-
-
 Adafruit Python BMP
 ------------------------
 
@@ -40,3 +34,18 @@ Adafruit invests time and resources providing this open source code, please supp
 
 Written by Tony DiCola for Adafruit Industries.
 MIT license, all text above must be included in any redistribution
+
+
+Set up of Raspberry Pi and Sensor
+
+------------------------------------
+https://thepihut.com/blogs/raspberry-pi-tutorials/18025084-sensors-pressure-temperature-and-altitude-with-the-bmp180
+
+Sensors - Pressure, Temperature and Altitude with the BMP180
+
+Set up i2c on Raspberry
+
+This is required for BMP180 sensor to work. Follow instructions below
+
+https://learn.adafruit.com/adafruits-raspberry-pi-lesson-4-gpio-setup/configuring-i2c
+
