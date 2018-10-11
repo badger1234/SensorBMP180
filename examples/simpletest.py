@@ -24,7 +24,7 @@
 #import logging
 #logging.basicConfig(level=logging.DEBUG)
 
-import BMP085 as BMP085git remote
+import BMP085 as BMP085
 
 # Default constructor will pick a default I2C bus.
 #
